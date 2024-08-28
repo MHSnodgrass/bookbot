@@ -1,2 +1,1 @@
-# bookbot
-Repo for the first Python project on boot.dev
+BookBot is my first project!
